@@ -1,5 +1,5 @@
 #! /bin/bash
-echo we are on bash version $BASH_VERSION
+eho we are on bash version $BASH_VERSION
 welcome=hello
 name=kekeli
 age=67
