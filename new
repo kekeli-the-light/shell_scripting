@@ -1,0 +1,6 @@
+#!/bin/bash
+#touch about.txt
+read -p 'Your name,age,from: ' name age from
+echo His name is $name and he comes from $from
+echo He is $age years old
+
