@@ -1,1 +1,1 @@
-# Learning shell scripting with the the Oreilly Classic Shell Scripting
+# Learning shell scripting with  the Oreilly Classic Shell Scripting
