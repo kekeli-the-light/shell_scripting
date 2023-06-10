@@ -1,5 +1,5 @@
 #! /bin/bash
-eho we are on bash version $BASH_VERSION
+echo we are on bash version $BASH_VERSION
 welcome=hello
 name=kekeli
 age=67
@@ -8,5 +8,5 @@ echo my name is $name
 echo I am $age years old
 echo Tell me your name too
 echo Tell me your name too
-read -p 'name: ' hisname
-echo $welcome $hisname
+read -p 'name: ' hisname class
+echo $welcome $hisname 
