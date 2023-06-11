@@ -1,1 +1,3 @@
-# Learning shell scripting with  the Oreilly Classic Shell Scripting
+This directory contains my solution to the 
+exercises in the shell scripting book by
+Jason cannon
